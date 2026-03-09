@@ -1,4 +1,4 @@
-# 🎮 Tic Tac Toe - Termux Elite Edition
+# 🎮 Tic Tac Toe on Python
 
 An **elite, professional, and mobile-friendly Tic Tac Toe game** in Python. Designed for fun, clarity, and replayability, with both a **modular multi-file version** and a **standalone single-file version**.
 
