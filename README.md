@@ -44,8 +44,7 @@ An **elite, professional, and mobile-friendly Tic Tac Toe game** in Python. Desi
 4. **Run the Game:**
    
    ```bash
-   python main.py       # modular
-   python tictactoe.py  # standalone
+   python tictactoe.py  # both versions
    ```
 
 ---
