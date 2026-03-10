@@ -91,5 +91,5 @@ Optimized for Termux on Android, but works on any terminal
 
 ## 🌟 License
 
-Open-source, free to use and modify.
+MIT LICENSE | SOUMIK HALDER
 
